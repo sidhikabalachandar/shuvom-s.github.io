@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in [EECS](https://www.eecs.mit.edu/) at MIT. I am co-advised by [Bonnie Berger](https://people.csail.mit.edu/bab/) (MIT CSAIL) and [Hoon Cho](https://hhcho.com/) (Broad Institute). I am broadly interested in privacy and machine learning and applications to biological problems. In particular, I am interested in developing probabilistic machine learning models and privacy-preserving methods to accelerate and secure biomedical research.
+I am a first-year PhD student in [EECS](https://www.eecs.mit.edu/) at MIT. I am co-advised by [Bonnie Berger](https://people.csail.mit.edu/bab/) (MIT CSAIL) and [Hoon Cho](https://hhcho.com/) (Broad Institute). I am broadly interested in privacy and machine learning and their applications to biological problems. In particular, I hope to develop probabilistic machine learning models and privacy-preserving methods to accelerate and secure biomedical research.
 
 Prior to MIT, I was an undergraduate at Harvard, where I received an AB in Computer Science and Statistics. I am fortunate to be supported by the [Hertz Foundation Fellowship](https://www.hertzfoundation.org/person/shuvom-sadhuka/) and [NSF Fellowship](https://www.nsfgrfp.org/). I am always happy to chat, feel free to reach out via [email](mailto:ssadhuka@mit.edu).
 
